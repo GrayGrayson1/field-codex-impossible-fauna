@@ -2,10 +2,13 @@
 
 Twenty Anatomies Beyond the Familiar — an interactive illustrated field journal compiled by V.
 
+[Open the book](https://graygrayson1.github.io/field-codex-impossible-fauna/)
+
 ## Read
 
 - Open **bestiary.html** directly in a modern browser. Its twenty WebP paintings, styles, scripts, and ornaments are embedded; no internet connection is needed.
-- **index.html + assets/** is the lightweight static-hosting edition.
+- **index.html** is the fully embedded GitHub Pages edition.
+- The editable source archive can also build a lightweight **index.html + assets/** edition.
 - **codex-source.zip** preserves the editable content, source, compressed art, image prompts, and build script.
 
 ## Controls
